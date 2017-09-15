@@ -19,7 +19,7 @@ chmod 755 block.sh
 ```
 The `block.sh` script can be used as such by invoking it with `./block.sh`. For using it as a normal terminal command, follow these steps :
 ```
-sudo cp block.sh /usr/bin/
+sudo cp block.sh /usr/bin/block
 ```
 The script can now be invoked with `block` only.
 * * *
