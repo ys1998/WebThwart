@@ -1,5 +1,5 @@
-# WebThwart
-## Website-blocking tool for Ubuntu
+# WebThwart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Website blocking tool for Ubuntu
 ### Overview
 WebThwart is a terminal based utility for Ubuntu and other similar Linux distros that aids in blocking, managing and unblocking websites for better productivity and a distract-free online experience.
 
