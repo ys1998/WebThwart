@@ -4,7 +4,7 @@
 WebThwart is a terminal based utility for Ubuntu and other similar Linux distros that aids in blocking, managing and unblocking websites for better productivity and a distract-free online experience.
 
 Based on the (safe) exploitation of `/etc/hosts` system-config file, WebThwart provides the following features :
-<br>
+<br><br>
 ![help](images/help.png) 
 * * *
 ### Installation
